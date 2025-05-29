@@ -1,0 +1,15 @@
+# Ignore environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Streamlit config/history
+.streamlit/
+
+# Mac system files
+.DS_Store
