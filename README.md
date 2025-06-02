@@ -37,7 +37,7 @@ brieFly is a GenAI-powered assistant that helps users **recap, analyze, and act*
 | [Streamlit](https://streamlit.io/)           | Interactive frontend & UI rendering            |
 | [OpenAI Whisper](https://platform.openai.com/docs/guides/speech-to-text) | Audio transcription                           |
 | [OpenAI GPT-4o](https://platform.openai.com/docs/models/gpt-4o)        | Summarization & suggestion generation         |
-| [Hugging Face Transformers]([https://huggingface.co/docs/transformers](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment)) | Sentiment analysis (RoBERTa)                  |
+| [Hugging Face Transformers](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment) | Sentiment analysis (RoBERTa)                  |
 | [Zoom API (OAuth)](https://marketplace.zoom.us/docs/api-reference/introduction/) | Meeting recording retrieval                    |
 | Python, Requests     | API calls and file handling               |
 
